@@ -1,40 +1,41 @@
-AlertOps Expert Guidance
+Modern ITSM Solutions: Creativity in Incident Response (Bring Your Own Tools)
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+The IT landscape is constantly evolving. A tool that is heavily used this month, may be virtually obsolete the next. In a such a dynamic ecosystem, the methods used to implement these tools are unique to every organization. Therefore, it has become crucial for organizations to implement an incident response process that incorporates any combination of tools, even those that are highly siloed and departmental.
 
-Not One Size Fits All
+Let’s take a look at how AlertOps’ BYOT (Bring Your Own Tools) framework, will foster creativity and boost efficiency in incident response processes.
+
+Work With Your Tools of Choice
 =====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+It doesn’t make sense for IT teams to conduct their operations on the same tools that an HR team would. This is because there is usually not much overlap in the business processes in which they are involved. When it comes to incident response, however, the process involves a variety of teams that all need to take action or respond to an ongoing incident.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Attempting to make all teams work on a singular tool ultimately reduces efficiency from a cost and productivity standpoint. Teams use the tools that are optimal for their own processes. If forced to adopt a specific tool, organizations will face declines in productivity both due to the time it takes for adoption as well as the use of a sub-optimal tool for response. The cost inefficiency stems from the substantial overhead necessary in terms of migration pains as well as re-training efforts for the uniform tool.
 
-Automate Processes
+Foster a Practice of Creativity
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Creativity is a integral piece of innovation. With substantial overlap and competition between tools in the IT ecosystem, virtually identical processes can be built on different systems using different methods. The progression of the ecosystem is highly due to the ability of user to customize their interactions with the tools they use. By promoting creativity, organizations are also promoting users to implement their tools in a functional and straightforward way.
 
-Clarity
+By allowing teams to choose the tools they use, AlertOps empowers organizations to drive creation of custom processes. Users are encouraged to construct processes that span across tools and departments to cater their solutions to their specific needs.
+
+Future-Proof Your Proof Your Processes
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+It has been established that new tools flood the market at a rapid pace. As tools fade in and out of relevance so swiftly, the need for a solution that allows you to connect to any tool becomes crucial. When digital transformation progresses, organizations need to be able to pivot their processes to incorporate new tools or replace tools easily. AlertOps contains features to ensure that business processes don’t become completely obsolete during the processes of digital transformation:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
+Open-API
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+AlertOps open API allows it to bi-directionally integrate with virtually any tool that implements an API. The No-Code implementation of the API allows easily changing mapping criteria or replacing a tool within a process.
 
-Conclusion
+E-Mail Integration
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+While most new tools feature APIs, many organizations use legacy or homebrew tools that do not and are unable to migrate away. For these solution, AlertOps features an E-mail integration to send data to a dedicated AlertOps mailbox which will map the data and execute the following processes.
 
-1 Red Canary 2021 Threat Detection Report
+Extendable Alert Object
+====
+While the same tool may be for the same purposes by different organizations, the data used to trigger processes may vary between them. AlertOps features an extendable alert object with the ability to create and map to custom fields and values. This allows organizations to take action on different values and customize their processes to trigger on customizable inputs.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/modern-itsm-solutions-creativity-incident-response/
 
 Read more:
 ====
